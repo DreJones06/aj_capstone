@@ -35,7 +35,7 @@ o	git push -u origin main
 9.	Freestyle Project Creation:
     A freestyle project has been set up in Jenkins specifically for the capstone project.
 10.	Deployment Configuration:
-    The deployment configuration has been established by linking the capstone project to the GitHub repository (dev branch).
+    The deployment configuration has been established by linking the capstone project to the GitHub repository (dev branch).[deploy.sh & build.sh]
 11.	Pipeline Setup:
     A pipeline has been created to execute the deployment process, integrating the Jenkinsfile and Docker execution.
 12.	Successful Deployment:
